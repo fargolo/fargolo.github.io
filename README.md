@@ -6,9 +6,7 @@ pkg> add Franklin
 
 
 
-2) rodar localmente :
-
-/> cd newblog
+2) rodar localmente:
 
 julia> using Franklin
 julia> serve()
