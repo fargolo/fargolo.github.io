@@ -17,11 +17,7 @@ julia> serve()
 novas entradas devem ser adicionadas no arquivo *index.md* formatados dessa forma
 
 ```
-<!-- tag com nome do titulo do post, serve de referencia para o link em indice.md -->
-~~~
-<a name="tagdotitulo"></a>
-~~~
-
+<!-- note que nessa caso " Título do Post" (respeitar o espaçamento) vai servir para referenciar o post em indice.md --> 
 ## Título do Post
 #### Subtítulo do Post
 ~~~
@@ -53,5 +49,13 @@ Vestibulum tincidunt, magna sed sodales placerat, tellus elit aliquet diam, a fr
 ### Tópico 2
 
 Proin eleifend ut dui eget efficitur. Praesent ultrices, elit sed sagittis gravida, risus est eleifend diam, at porttitor nisi augue sit amet turpis. Curabitur ac condimentum arcu. Quisque dictum nulla est, eget pretium ipsum maximus pretium. Sed sit amet sem id ex suscipit ultrices. Ut et sagittis elit. Curabitur in pharetra enim. Fusce ut tincidunt nisi, sit amet mollis nisl. Sed a tortor aliquet purus scelerisque consequat. Morbi ultricies vitae lorem a tempus. Nam non sagittis dui, ac fringilla justo. In rhoncus odio nec eros dignissim suscipit.
+```
 
-``` 
+e no arquivo *indice.md*, inserir link para novo post:
+
+```
+- [Título do Post](/## Título do Post)
+```
+
+
+
