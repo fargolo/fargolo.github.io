@@ -9,14 +9,14 @@
 
   <channel>
     <title>
-      <![CDATA[  Franklin Template  ]]>
+      <![CDATA[  blog  ]]>
     </title>
-    <link> https://tlienart.github.io/FranklinTemplates.jl/ </link>
+    <link> /github.com/fdemacedof/newblog/ </link>
     <description>
-      <![CDATA[  Example website using Franklin  ]]>
+      <![CDATA[  blog de felipe argolo  ]]>
     </description>
     <atom:link
-      href="https://tlienart.github.io/FranklinTemplates.jl/feed.xml"
+      href="/github.com/fdemacedof/newblog/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -25,13 +25,13 @@
   <title>
     <![CDATA[  Índice  ]]>
   </title>
-  <link> https://tlienart.github.io/FranklinTemplates.jl/indice/index.html </link>
-  <guid> https://tlienart.github.io/FranklinTemplates.jl/indice/index.html </guid>
+  <link> /github.com/fdemacedof/newblog/indice/index.html </link>
+  <guid> /github.com/fdemacedof/newblog/indice/index.html </guid>
   <description>
     <![CDATA[  Índice  ]]>
   </description>  
     
-  <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>  
+  <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
