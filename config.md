@@ -14,9 +14,9 @@ ignore = ["node_modules/"]
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 @def prepath = "newblog"
 generate_rss = true
-website_title = "Franklin Template"
-website_descr = "Example website using Franklin"
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+website_title = "blog"
+website_descr = "blog de felipe argolo"
+website_url   = "https://fdemacedof.github.io/newblog/"
 +++
 
 <!--
