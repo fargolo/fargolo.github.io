@@ -12,7 +12,7 @@ mintoclevel = 2
 ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
-@def prepath = "newblog/"
+@def prepath = "newblog"
 generate_rss = true
 website_title = "blog"
 website_descr = "blog de felipe argolo"
