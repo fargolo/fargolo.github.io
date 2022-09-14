@@ -1,7 +1,7 @@
 <!--
 Add here global page variables to use throughout your website.
 -->
-@def prepath = "https://fdemacedof.github.io/newblog/"
+@def prepath = "https://fdemacedof.github.io/newblog"
 
 +++
 author = "Septimia Zenobia"
@@ -17,7 +17,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "blog"
 website_descr = "blog de felipe argolo"
-website_url   = "/github.com/fdemacedof/newblog/"
+website_url   = "/github.com/fdemacedof/newblog"
 +++
 
 <!--
