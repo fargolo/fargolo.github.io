@@ -1,7 +1,7 @@
 <!--
 Add here global page variables to use throughout your website.
 -->
-@def prepath = "https://fdemacedof.github.io/newblog"
+@def prepath = "https://fdemacedof.github.io/newblog/"
 
 +++
 author = "Septimia Zenobia"
