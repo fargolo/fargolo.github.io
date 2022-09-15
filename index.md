@@ -1,4 +1,4 @@
-@def title = "Franklin Blog"
+@def title = "New Blog"
 @def tags = ["syntax", "code"]
 
 ~~~
