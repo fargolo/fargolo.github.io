@@ -21,7 +21,7 @@ Ao final de um dia de trabalho, notei algo curioso. Dentro do brasão, havia um 
 ~~~
 <div class="row">
   <div class="container">
-    <center><img class="center" src="/assets/fractais.jpeg">
+    <center><img class="center" src="assets/fractais.jpeg">
     <figcaption>Bonecas Matryoshka (Foto: <a href="https://unsplash.com/@didsss?utm_source=medium&utm_medium=referral">Didssph @Unsplash</a>)</figcaption></center>     
   </div>
 </div>
@@ -40,7 +40,7 @@ O termo vem do latim frāctus, “quebrado” or “fraturado”. Padrões compl
 ~~~
 <div class="row">
   <div class="container">
-    <center><img class="center" src="/assets/cristais.jpeg">
+    <center><img class="center" src="assets/cristais.jpeg">
     <figcaption>Flocos de gelo fractais gerados recursivamente (Foto: <a href="https://unsplash.com/@maralalon?utm_source=medium&utm_medium=referral">Martin LONGIN @Unsplash</a>)</figcaption></center>     
   </div>
 </div>
@@ -60,7 +60,7 @@ O valor exato é de aproximadamente 2.066, o que está de acordo com a intuiçã
 ~~~
 <div class="row">
   <div class="container">
-    <center><img class="center" src="/assets/arvores.jpeg">
+    <center><img class="center" src="assets/arvores.jpeg">
     <figcaption>Árvores também são estruturas fractais (Foto: <a href="https://unsplash.com/@chuttersnap?utm_source=medium&utm_medium=referral">CHUTTERSNAP @Unsplash</a>)</figcaption></center>     
   </div>
 </div>
@@ -72,7 +72,7 @@ O valor exato é de aproximadamente 2.066, o que está de acordo com a intuiçã
 ~~~
 <div class="row">
   <div class="container">
-    <center><img class="center" src="/assets/neuronios.jpeg">
+    <center><img class="center" src="assets/neuronios.jpeg">
     <figcaption>(Foto: 
     <a href="https://unsplash.com/@seresigo?utm_source=medium&utm_medium=referral">Philipp Trubchenko @Unsplash</a>)</figcaption></center>     
   </div>
@@ -89,7 +89,7 @@ Se você gostou do post, acesse a comunidade do Telegram:
 ~~~
 <div class="row">
   <div class="container">
-    <center><img class="center" src="/assets/bandeirao.png">
+    <center><img class="center" src="assets/bandeirao.png">
     <figcaption>Já pensou no bandeirão?</figcaption></center>     
   </div>
 </div>
