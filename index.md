@@ -2,6 +2,9 @@
 @def tags = ["syntax", "code"]
 
 ~~~
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2336426404618241" crossorigin="anonymous"></script>
+~~~
+~~~
 <a name="bandeirabahia"></a>
 ~~~
 ## A bandeira do Bahia Esporte Clube é especial. 
