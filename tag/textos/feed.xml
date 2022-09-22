@@ -11,12 +11,12 @@
     <title>
       <![CDATA[  blog  ]]>
     </title>
-    <link> https://newblog.github.io </link>
+    <link> https://fdemacedof.github.io </link>
     <description>
       <![CDATA[  blog de felipe argolo  ]]>
     </description>
     <atom:link
-      href="https://newblog.github.io/feed.xml"
+      href="https://fdemacedof.github.io/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -25,8 +25,8 @@
   <title>
     <![CDATA[  Índice  ]]>
   </title>
-  <link> https://newblog.github.io/indice/index.html </link>
-  <guid> https://newblog.github.io/indice/index.html </guid>
+  <link> https://fdemacedof.github.io/indice/index.html </link>
+  <guid> https://fdemacedof.github.io/indice/index.html </guid>
   <description>
     <![CDATA[  Índice  ]]>
   </description>  
