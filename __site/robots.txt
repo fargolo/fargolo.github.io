@@ -1,4 +1,4 @@
-Sitemap: /github.com/fdemacedof/newblog/sitemap.xml
+Sitemap: https://newblog.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
