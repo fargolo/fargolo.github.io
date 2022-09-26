@@ -11,12 +11,12 @@
     <title>
       <![CDATA[  blog  ]]>
     </title>
-    <link> https://fdemacedof.github.io </link>
+    <link> https://fargolo.github.io </link>
     <description>
       <![CDATA[  blog de felipe argolo  ]]>
     </description>
     <atom:link
-      href="https://fdemacedof.github.io/feed.xml"
+      href="https://fargolo.github.io/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -25,17 +25,17 @@
   <title>
     <![CDATA[  Sobre  ]]>
   </title>
-  <link> https://fdemacedof.github.io/sobre/index.html </link>
-  <guid> https://fdemacedof.github.io/sobre/index.html </guid>
+  <link> https://fargolo.github.io/sobre/index.html </link>
+  <guid> https://fargolo.github.io/sobre/index.html </guid>
   <description>
     <![CDATA[  Sobre o autor da página  ]]>
   </description>  
     
-  <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>  
+  <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
-    <atom:name>Septimia Zenobia</atom:name>
+    <atom:name>Felipe Argolo</atom:name>
   </atom:author>
         
 </item>

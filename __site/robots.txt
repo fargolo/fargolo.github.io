@@ -1,4 +1,4 @@
-Sitemap: https://fdemacedof.github.io/sitemap.xml
+Sitemap: https://fargolo.github.io/sitemap.xml
 
 User-agent: *
 Disallow:

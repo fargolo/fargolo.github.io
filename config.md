@@ -4,7 +4,7 @@ Add here global page variables to use throughout your website.
 -->
 
 +++
-author = "Septimia Zenobia"
+author = "Felipe Argolo"
 mintoclevel = 2
 
 # Add here files or directories that should be ignored by Franklin, otherwise
@@ -17,7 +17,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "blog"
 website_descr = "blog de felipe argolo"
-website_url   = "https://fdemacedof.github.io"
+website_url   = "https://fargolo.github.io"
 +++
 
 <!--
