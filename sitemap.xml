@@ -2,37 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://fargolo.github.io/programacao/hello-world/index.html</loc>
-    <lastmod>2022-10-07</lastmod>
+    <loc>https://fargolo.github.io/indices/indice-programacao/index.html</loc>
+    <lastmod>2022-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://fargolo.github.io/indices/indice-esportes/index.html</loc>
+    <lastmod>2022-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://fargolo.github.io/posts/oct/201022-ecb_bahia/index.html</loc>
+    <lastmod>2022-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://fargolo.github.io/indices/indice-weblog/index.html</loc>
+    <lastmod>2022-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://fargolo.github.io/index.html</loc>
-    <lastmod>2022-10-07</lastmod>
+    <lastmod>2022-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://fargolo.github.io/indice-programacao/index.html</loc>
-    <lastmod>2022-10-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://fargolo.github.io/esportes/ecb_bahia/index.html</loc>
-    <lastmod>2022-10-07</lastmod>
+    <loc>https://fargolo.github.io/posts/oct/201022-hello/index.html</loc>
+    <lastmod>2022-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://fargolo.github.io/404/index.html</loc>
-    <lastmod>2022-10-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://fargolo.github.io/indice-esportes/index.html</loc>
     <lastmod>2022-10-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
