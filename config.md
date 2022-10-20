@@ -2,7 +2,7 @@
 Add here global page variables to use throughout your website.
 -->
 +++
-author = "Felipe Argolo"
+author = "Felipe Coelho Argolo"
 mintoclevel = 2
 
 # Add here files or directories that should be ignored by Franklin, otherwise

@@ -1,5 +1,5 @@
 +++
-title = "Índice Prgramação"
+title = "Índice Programação"
 hascode = true
 rss = "Índice Programação"
 rss_title = "Índice Programação"
@@ -7,7 +7,6 @@ rss_title = "Índice Programação"
 tags = ["indice", "posts", "textos"]
 +++
 
-# Textos
+# Programação
 
-- [Hello world](/programacao/hello-world)
 

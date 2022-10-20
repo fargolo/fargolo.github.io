@@ -6,9 +6,9 @@
 ~~~
 ## A bandeira do Bahia Esporte Clube é especial. 
 #### Revisitando um fractal “esquecido” por 90 anos
-
+20/10/2022  
 ~~~
-<div style="text-align: right"><a href="https://medium.com/d-van/a-bandeira-do-bahia-esporte-clube-%C3%A9-especial-revisitando-um-fractal-esquecido-por-90-anos-884f8e677f7b"><i>publicado originalmente em ...<i></a></div>
+<div style="text-align: right"><a href="https://medium.com/d-van/a-bandeira-do-bahia-esporte-clube-%C3%A9-especial-revisitando-um-fractal-esquecido-por-90-anos-884f8e677f7b"><i>publicado originalmente em 10/05/2022...<i></a></div>
 <br>
 ~~~
 
