@@ -8,8 +8,20 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://fargolo.github.io/index.html</loc>
+    <lastmod>2022-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://fargolo.github.io/indices/indice-esportes/index.html</loc>
     <lastmod>2022-10-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://fargolo.github.io/posts/nov/081122-causalidade/index.html</loc>
+    <lastmod>2022-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -26,8 +38,8 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://fargolo.github.io/index.html</loc>
-    <lastmod>2022-10-20</lastmod>
+    <loc>https://fargolo.github.io/posts/drafts/nos-nao-vamo-pagar-nada/index.html</loc>
+    <lastmod>2022-11-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -44,8 +56,20 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://fargolo.github.io/posts/nov/051122-medcomplex1/index.html</loc>
+    <lastmod>2022-11-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://fargolo.github.io/sobre/index.html</loc>
     <lastmod>2022-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://fargolo.github.io/posts/nov/081122-causalidade/</loc>
+    <lastmod>2022-11-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
