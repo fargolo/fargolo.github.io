@@ -1,4 +1,4 @@
-@def title = "Felipe Argolo's Blog"
+@def title = "Felipe Argolo's Webpage"
 @def tags = ["syntax", "code"]
 
 ### Códigos abertos  
