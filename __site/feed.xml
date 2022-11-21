@@ -9,7 +9,7 @@
 
   <channel>
     <title>
-      <![CDATA[  Felipe Argolo&#39;s Blog  ]]>
+      <![CDATA[  Felipe&#39;s webpage  ]]>
     </title>
     <link> https://fargolo.github.io/ </link>
     <description>
@@ -20,6 +20,25 @@
       rel="self"
       type="application/rss+xml" />
 
+
+<item>
+  <title>
+    <![CDATA[  Sobre  ]]>
+  </title>
+  <link> https://fargolo.github.io/sobre/index.html </link>
+  <guid> https://fargolo.github.io/sobre/index.html </guid>
+  <description>
+    <![CDATA[  Sobre o autor da página  ]]>
+  </description>  
+    
+  <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Felipe Coelho Argolo</atom:name>
+  </atom:author>
+        
+</item>
 
 <item>
   <title>
@@ -70,25 +89,6 @@
   </description>  
     
   <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Felipe Coelho Argolo</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  Sobre  ]]>
-  </title>
-  <link> https://fargolo.github.io/sobre/index.html </link>
-  <guid> https://fargolo.github.io/sobre/index.html </guid>
-  <description>
-    <![CDATA[  Sobre o autor da página  ]]>
-  </description>  
-    
-  <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
