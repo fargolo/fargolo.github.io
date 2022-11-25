@@ -21,19 +21,25 @@ Github profile (Perfil no Github):
 ### Blog 
 Medium:    
 ~~~
-<a href="https://medium.com/@felipeargolo">https://medium.com/@felipeargolo</a>
-<a href="https://medium.com/d-van">https://medium.com/d-van</a>
+<a href="https://medium.com/@felipeargolo">@felipeargolo</a>
+<a href="https://medium.com/d-van">d-van</a>
 ~~~
 
 ### Q&A Perguntas e Respostas:  
-"Quora":  
 ~~~
-<a href="https://www.quora.com/profile/Felipe-Argolo"> https://www.quora.com/profile/Felipe-Argolo </a>
+<a href="https://www.quora.com/profile/Felipe-Argolo"> Quora</a>
 ~~~
 
 ### Twitter  
 ~~~  
-<a class="twitter-timeline" href="https://twitter.com/ArgoloF">@ArgoloF</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>   
+<div class="row">
+  <div class="column">
+	<a class="twitter-timeline" href="https://twitter.com/ArgoloF">@ArgoloF</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+  <div class="column">
+	<a class="twitter-timeline" href="https://twitter.com/Eyialabs">@EyiaLabs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>   
+  </div>
+</div> 
 
-<a class="twitter-timeline" href="https://twitter.com/Eyialabs">@EyiaLabs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>   
 ~~~  
+
