@@ -12,9 +12,16 @@
 
 ### Research (Pesquisa)  
 
+*English*: M.D. (UFBa), with a Ph.D. (UNIFESP) in Psychiatry and Medical Psychology. I'm a post doctoral researcher at USP funded by the Wellcome Trust Fund. We study automated data processing to analyze human behavior. 
+
+*Portuguese*: Formado em medicina (UFBa), com doutorado em Psiquiatria e Psicologia Médica (UNIFESP). Sou pesquisador pós-doutor (USP) com financiamento via Wellcome Trust Fund. Estudamos processamento automatizado de dados para analisar comportamento humano. 
+
+Peer-reviewed works and citations:   
+Trabalhos revisados e citações:  
+
 ~~~  
 <a href="https://scholar.google.com/citations?user=XR4ot-cAAAAJ">
-<b>Peer-reviewed works and citations (Google Scholar)</b>
+<b>Google Scholar</b>
 </a>
 ~~~  
 
