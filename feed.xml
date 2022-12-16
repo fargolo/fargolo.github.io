@@ -31,7 +31,7 @@
     <![CDATA[  Sobre o autor da página  ]]>
   </description>  
     
-  <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -42,12 +42,12 @@
 
 <item>
   <title>
-    <![CDATA[  Índice Programação  ]]>
+    <![CDATA[  Índice Weblog  ]]>
   </title>
-  <link> https://fargolo.github.io/indices/indice-programacao/index.html </link>
-  <guid> https://fargolo.github.io/indices/indice-programacao/index.html </guid>
+  <link> https://fargolo.github.io/indices/indice-weblog/index.html </link>
+  <guid> https://fargolo.github.io/indices/indice-weblog/index.html </guid>
   <description>
-    <![CDATA[  Índice Programação  ]]>
+    <![CDATA[  Índice Weblog  ]]>
   </description>  
     
   <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>  
@@ -80,12 +80,12 @@
 
 <item>
   <title>
-    <![CDATA[  Índice Weblog  ]]>
+    <![CDATA[  Índice Programação  ]]>
   </title>
-  <link> https://fargolo.github.io/indices/indice-weblog/index.html </link>
-  <guid> https://fargolo.github.io/indices/indice-weblog/index.html </guid>
+  <link> https://fargolo.github.io/indices/indice-programacao/index.html </link>
+  <guid> https://fargolo.github.io/indices/indice-programacao/index.html </guid>
   <description>
-    <![CDATA[  Índice Weblog  ]]>
+    <![CDATA[  Índice Programação  ]]>
   </description>  
     
   <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>  
