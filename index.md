@@ -9,6 +9,15 @@
 </div>
 <br>
 ~~~
+
+### Research (Pesquisa)  
+
+~~~  
+<a href="https://scholar.google.com/citations?user=XR4ot-cAAAAJ">
+<b>Peer-reviewed works and citations (Google Scholar)</b>
+</a>
+~~~  
+
 ### Open source software (Códigos abertos)
 
 Github profile (Perfil no Github):  
@@ -17,6 +26,7 @@ Github profile (Perfil no Github):
 <b>@fargolo</b>
 </a>
 ~~~ 
+
 
 ### Blog 
 Medium:    
