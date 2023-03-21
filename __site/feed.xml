@@ -23,6 +23,25 @@
 
 <item>
   <title>
+    <![CDATA[  Research  ]]>
+  </title>
+  <link> https://fargolo.github.io/research/index.html </link>
+  <guid> https://fargolo.github.io/research/index.html </guid>
+  <description>
+    <![CDATA[  Research activities / Atividades de Pesquisa  ]]>
+  </description>  
+    
+  <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Felipe Coelho Argolo</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Sobre  ]]>
   </title>
   <link> https://fargolo.github.io/sobre/index.html </link>
@@ -32,6 +51,25 @@
   </description>  
     
   <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Felipe Coelho Argolo</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Índice Programação  ]]>
+  </title>
+  <link> https://fargolo.github.io/indices/indice-programacao/index.html </link>
+  <guid> https://fargolo.github.io/indices/indice-programacao/index.html </guid>
+  <description>
+    <![CDATA[  Índice Programação  ]]>
+  </description>  
+    
+  <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -67,25 +105,6 @@
   <guid> https://fargolo.github.io/indices/indice-esportes/index.html </guid>
   <description>
     <![CDATA[  Índice Esportes  ]]>
-  </description>  
-    
-  <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Felipe Coelho Argolo</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  Índice Programação  ]]>
-  </title>
-  <link> https://fargolo.github.io/indices/indice-programacao/index.html </link>
-  <guid> https://fargolo.github.io/indices/indice-programacao/index.html </guid>
-  <description>
-    <![CDATA[  Índice Programação  ]]>
   </description>  
     
   <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>  
