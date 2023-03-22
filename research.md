@@ -78,7 +78,7 @@ Como indica a formação em Psiquiatria, estudo o comportamento humano, com foco
 [^9]: https://repositorio.ufba.br/handle/ri/16353 &  https://periodicos.ufsm.br/cienciaenatura/article/view/40513/pdf  
 [^10]: https://assets.researchsquare.com/files/rs-2678473/v1/1da852db-cd2e-4709-b01b-45c29f8c24fa.pdf?c=1678873937  
 [^11]: See ref. 10 above & https://sol.sbc.org.br/index.php/wvc/article/view/18900  
-[^12]: [Topological data analysis and hierarchical clusters for the assessment of psychosis in a community sample of children and adolescents: the Brazilian High Risk Cohort](https://psyarxiv.com/gy2jq/) & https://www.scielo.br/j/trends/a/dTy4Vgk549jgTmQbtxVsRHP/abstract/?lang=en & https://www.medigraphic.com/cgi-bin/new/resumenI.cgi?IDREVISTA=13&IDARTICULO=78047&IDPUBLICACION=7549 & (https://periodicos.ufsm.br/cienciaenatura/article/view/40513/pdf)  
+[^12]: https://psyarxiv.com/gy2jq/ & https://www.scielo.br/j/trends/a/dTy4Vgk549jgTmQbtxVsRHP/abstract/?lang=en & https://www.medigraphic.com/cgi-bin/new/resumenI.cgi?IDREVISTA=13&IDARTICULO=78047&IDPUBLICACION=7549 & (https://periodicos.ufsm.br/cienciaenatura/article/view/40513/pdf)  
 [^13]: https://svn.bmj.com/content/6/4/671.abstract & ref.1  
 [^14]: https://www.sciencedirect.com/science/article/abs/pii/S0306460321003166  
 [^15]: https://www.scielo.br/j/ag/a/JyTKZdVmGjhNnX5jhtLCPnq/  
