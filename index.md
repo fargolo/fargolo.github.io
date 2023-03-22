@@ -1,8 +1,6 @@
 @def title = "Felipe's Webpage"
 @def tags = ["syntax", "code"]
 
-
-
 ~~~
 <div class="row">
     <center><img class="rounded" src="/assets/profile-crop.jpeg">
@@ -10,29 +8,11 @@
 <br>
 ~~~
 
-### Research (Pesquisa)  
+Olá, eu me chamo Felipe.  
+*Hello, my name is Felipe*.  
 
-*English*: M.D. (UFBa), with a Ph.D. (UNIFESP) in Psychiatry and Medical Psychology. I'm a post doctoral researcher at USP funded by the Wellcome Trust Fund. We study automated data processing to analyze human behavior. 
-
-*Portuguese*: Formado em medicina (UFBa), com doutorado em Psiquiatria e Psicologia Médica (UNIFESP). Sou pesquisador pós-doutor (USP) com financiamento via Wellcome Trust Fund. Estudamos processamento automatizado de dados para analisar comportamento humano. 
-
-Peer-reviewed works and citations:   
-Trabalhos revisados e citações:  
-
-~~~  
-<a href="https://scholar.google.com/citations?user=XR4ot-cAAAAJ">
-<b>Google Scholar</b>
-</a>
-~~~  
-
-### Open source software (Códigos abertos)
-
-Github profile (Perfil no Github):  
-~~~
-<a href="https://github.com/fargolo">
-<b>@fargolo</b>
-</a>
-~~~ 
+Instrumentos de corda, percussão, artes marciais e esportes marítimos.  
+Open source software, strings, drums, martial arts, sea sports.  
 
 
 ### Blog 

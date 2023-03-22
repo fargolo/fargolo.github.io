@@ -61,6 +61,44 @@
 
 <item>
   <title>
+    <![CDATA[  Sports  ]]>
+  </title>
+  <link> https://fargolo.github.io/sports/index.html </link>
+  <guid> https://fargolo.github.io/sports/index.html </guid>
+  <description>
+    <![CDATA[  Sports / Esportes  ]]>
+  </description>  
+    
+  <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Felipe Coelho Argolo</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Software  ]]>
+  </title>
+  <link> https://fargolo.github.io/software/index.html </link>
+  <guid> https://fargolo.github.io/software/index.html </guid>
+  <description>
+    <![CDATA[  Software  ]]>
+  </description>  
+    
+  <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Felipe Coelho Argolo</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Sobre  ]]>
   </title>
   <link> https://fargolo.github.io/sobre/index.html </link>
