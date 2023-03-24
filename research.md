@@ -60,16 +60,18 @@ Formado em medicina (UFBa), com doutorado em Psiquiatria e Psicologia Médica (U
 
 * Métodos quantitativos
 
-    * *Natural Language Processing (NLP)*. Novo método para análise de trajetórias semânticas com sistemas dinâmicos (Recurrence Quantification Analysis)[4] e para análise de representações com teoria dos grafos[5], ambos disponíveis como software de código aberto.  
-    * *Psicometria*. Novo método para análise de fatores latentes com topologia (TDA) via homologias persistentes e filtração alfa[^12]. Aplicações de teoria de resposta ao item (IRT)[^12] e modelagem com equações estruturas (SEM)[^8].  
+    * *Natural Language Processing (NLP)*. Novo método para análise de trajetórias semânticas com sistemas dinâmicos (Recurrence Quantification Analysis)(4) e para análise de representações com teoria dos grafos(5), ambos disponíveis como software de código aberto.  
+    * *Psicometria*. Novo método para análise de fatores latentes com topologia (TDA) via homologias persistentes e filtração alfa[^12]. Aplicações de teoria de resposta ao item (IRT)(12) e modelagem com equações estruturas (SEM)(8).  
 
     * Meta-análise, incluindo inferência Bayesiana[^13]  
     * Modelos de regressão hierárquicos/mistos com inferência Bayesiana[^14]  
-    * Análise de sobre-vida[^15]
+    * Análise de sobre-vida[^15]  
+    * Livro-texto sobre inferência com estatística e probabilidade para ciências[^16]  
+    * Análise de padrões fractais na bandeira do Bahia Esporte Clube[^17]  
 
   
 * Outras áreas
-    * Previamente, desenvolvi estudos nas áreas de emergências cardiovasculares[^2] e contribuí com modelagem matemática em trabalhos na [urologia](https://www.scielo.br/j/ibju/a/Y56pX8GsL3YFJjnz4CXsFgx/?lang=en&format=html), [cirurgia cardíaca](https://www.scielo.br/j/ijcs/a/stQNHVC7RDv6ShJJXGbhCTJ/?format=html&lang=en).
+    * Previamente, desenvolvi estudos nas áreas de emergências cardiovasculares(2) e contribuí com modelagem matemática em trabalhos na [urologia](https://www.scielo.br/j/ibju/a/Y56pX8GsL3YFJjnz4CXsFgx/?lang=en&format=html), [cirurgia cardíaca](https://www.scielo.br/j/ijcs/a/stQNHVC7RDv6ShJJXGbhCTJ/?format=html&lang=en).
 
 
 ## Research ouputs by axes.  
@@ -99,16 +101,18 @@ Formado em medicina (UFBa), com doutorado em Psiquiatria e Psicologia Médica (U
 
 * Quantitative methods  
 
-     * *Natural Language Processing (NLP)*. New method for analysis of semantic trajectories with dynamic systems (Recurrence Quantification Analysis)[4] and for analysis of representations with graph theory[5], both available as open source software.
-     * * Psychometry *. New method for analysis of latent factors with topology (TDA) via persistent homologies and alpha filtration[^12]. Applications of item response theory (IRT)[^12] and structural equation modeling (SEM)[^8].  
+     * *Natural Language Processing (NLP)*. New method for analysis of semantic trajectories with dynamic systems (Recurrence Quantification Analysis)(4) and for analysis of representations with graph theory(5), both available as open source software.
+     * * Psychometry *. New method for analysis of latent factors with topology (TDA) via persistent homologies and alpha filtration[^12]. Applications of item response theory (IRT)(12) and structural equation modeling (SEM)(8).  
 
      * Meta-analysis, including Bayesian inference[^13]  
      * Hierarchical/mixed regression models with Bayesian inference[^14]  
      * Survival Analysis[^15]  
+     * Textbook on Statistics and Probability for Inference in Science  [^16]
+     * Analysis of fractal patterns in ECB's crest[^17]
 
   
 * Other areas  
-     * Previously, I developed studies in the areas of cardiovascular emergencies[2] and contributed with mathematical modeling in works in [urology](https://www.scielo.br/j/ibju/a/Y56pX8GsL3YFJnz4CXsFgx/?lang=en&format=html ), [heart surgery](https://www.scielo.br/j/ijcs/a/stQNHVC7RDv6ShJJXGbhCTJ/?format=html&lang=en).  
+     * Previously, I developed studies in the areas of cardiovascular emergencies(2) and contributed with mathematical modeling in works in [urology](https://www.scielo.br/j/ibju/a/Y56pX8GsL3YFJnz4CXsFgx/?lang=en&format=html ), [heart surgery](https://www.scielo.br/j/ijcs/a/stQNHVC7RDv6ShJJXGbhCTJ/?format=html&lang=en).  
 
 
 
@@ -127,3 +131,5 @@ Formado em medicina (UFBa), com doutorado em Psiquiatria e Psicologia Médica (U
 [^13]: https://svn.bmj.com/content/6/4/671.abstract & ref.1  
 [^14]: https://www.sciencedirect.com/science/article/abs/pii/S0306460321003166  
 [^15]: https://www.scielo.br/j/ag/a/JyTKZdVmGjhNnX5jhtLCPnq/  
+[^16]: https://leanpub.com/cienciadados  
+[^17]: https://medium.com/d-van/a-bandeira-do-bahia-esporte-clube-%C3%A9-especial-revisitando-um-fractal-esquecido-por-90-anos-884f8e677f7b

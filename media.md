@@ -16,10 +16,15 @@ Github profile (Perfil no Github):
 ~~~ 
 
 
-* [Jornal USP](https://jornal.usp.br/institucional/aplicativo-comvc-ajuda-a-monitorar-a-saude-mental-dos-alunos-de-graduacao/)) - 
+* [Jornal USP](https://jornal.usp.br/institucional/aplicativo-comvc-ajuda-a-monitorar-a-saude-mental-dos-alunos-de-graduacao/) - 
 Aplicativo COMVC ajuda a monitorar a saúde mental dos alunos de graduação. O app oferece vídeos educativos e questionário com perguntas que ajudam o aluno a se autoconhecer.  
 * [Revista FAPESP](https://revistapesquisa.fapesp.br/na-fala-possiveis-sinais-da-esquizofrenia/) -  Na fala, possíveis sinais da esquizofrenia.  
 * [Stats-of-1](https://statsof1.org/causality-and-science/) - Causality and Science.  
+* [Meet-up Setembro Amarelo (DataLab Serasa)](https://www.youtube.com/watch?v=VzQ2cS75gZY&list=PL0BvB19qtjrLm1-Kjk9kmrvT_CC_wMDMH)
+
+~~~  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VzQ2cS75gZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+~~~  
 
 
 ### Personal Blog  
