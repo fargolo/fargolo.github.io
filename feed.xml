@@ -23,6 +23,44 @@
 
 <item>
   <title>
+    <![CDATA[  Computing  ]]>
+  </title>
+  <link> https://fargolo.github.io/computing/index.html </link>
+  <guid> https://fargolo.github.io/computing/index.html </guid>
+  <description>
+    <![CDATA[  Computing  ]]>
+  </description>  
+    
+  <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Felipe Coelho Argolo</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
+    <![CDATA[  Media  ]]>
+  </title>
+  <link> https://fargolo.github.io/media/index.html </link>
+  <guid> https://fargolo.github.io/media/index.html </guid>
+  <description>
+    <![CDATA[  Media  ]]>
+  </description>  
+    
+  <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Felipe Coelho Argolo</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Research  ]]>
   </title>
   <link> https://fargolo.github.io/research/index.html </link>
@@ -31,7 +69,7 @@
     <![CDATA[  Research activities / Atividades de Pesquisa  ]]>
   </description>  
     
-  <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -50,7 +88,7 @@
     <![CDATA[  Questions / Perguntas  ]]>
   </description>  
     
-  <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>  
+  <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
@@ -70,44 +108,6 @@
   </description>  
     
   <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Felipe Coelho Argolo</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  Software  ]]>
-  </title>
-  <link> https://fargolo.github.io/software/index.html </link>
-  <guid> https://fargolo.github.io/software/index.html </guid>
-  <description>
-    <![CDATA[  Software  ]]>
-  </description>  
-    
-  <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Felipe Coelho Argolo</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
-    <![CDATA[  Sobre  ]]>
-  </title>
-  <link> https://fargolo.github.io/sobre/index.html </link>
-  <guid> https://fargolo.github.io/sobre/index.html </guid>
-  <description>
-    <![CDATA[  Sobre o autor da página  ]]>
-  </description>  
-    
-  <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>  
   
   
   <atom:author>
