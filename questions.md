@@ -1,5 +1,5 @@
 +++
-title = "Questions / Perguntas"
+title = "Open Questions / Perguntas abertas"
 hascode = true
 rss = "Questions / Perguntas"
 rss_title = "Questions"
@@ -7,4 +7,5 @@ rss_title = "Questions"
 tags = ["research", "pesquisa"]
 +++
 
-Atualmente, estou investigando comportamento coletivo (e.g.estruturas sociais) pensando numa transição epidemiológica transcultural para a saúde mental.
+Atualmente, estou interessada em modelos de comportamento coletivo para entender a saúde mental.
+Em específico, como estruturas sociais estão relacionadas com o bem-estar individual e coletivo.  
