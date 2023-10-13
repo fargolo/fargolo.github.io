@@ -7,16 +7,17 @@ rss_title = "Research"
 tags = ["research", "pesquisa"]
 +++
 
-## Research (Pesquisa)  
-
-*English*: I study human behavior, with a focus on mental health. This includes clinical studies on mental disorders in a hospital environment, as well as work involving behavior in healthy people.
-
-M.D. (UFBa), with a Ph.D. (UNIFESP) in Psychiatry and Medical Psychology. Currently, I'm a post doctoral researcher at USP funded by the Wellcome Trust Fund. We study automated data processing to analyze human behavior. 
 
 
-*Portuguese*: Estudo o comportamento humano, com foco na saúde mental. Isso inclui estudos clínicos sobre transtornos mentais em ambiente hospitalar, assim como trabalhos envolvendo comportamento em pessoas saudáveis.
+**English**:M.D. (UFBa), Ph.D. (UNIFESP) in Psychiatry and Medical Psychology. I'm a post doctoral researcher at USP (Universidade de São Paulo).   
 
-Formado em medicina (UFBa), com doutorado em Psiquiatria e Psicologia Médica (UNIFESP). Atualmento, trabalho como pesquisador pós-doutor (USP) com financiamento via Wellcome Trust Fund. Estudamos processamento automatizado de dados para analisar comportamento humano. 
+I study human behavior, with a focus on mental health. This includes clinical studies on mental disorders in a hospital environment, as well as work involving behavior in healthy people.  
+
+---  
+
+**Português**: Formado em medicina (UFBa), com doutorado em Psiquiatria e Psicologia Médica (UNIFESP). Atualmento, trabalho como pesquisador pós-doutor na Universidade de São Paulo (USP). Estudamos processamento automatizado de dados para analisar comportamento humano. 
+
+Estudo o comportamento humano, com foco na saúde mental. Isso inclui estudos clínicos sobre transtornos mentais em ambiente hospitalar, assim como trabalhos envolvendo comportamento em pessoas saudáveis.
  
 
 ### Outputs 
@@ -26,62 +27,21 @@ Formado em medicina (UFBa), com doutorado em Psiquiatria e Psicologia Médica (U
 
 *Lista completa de trabalhos revisados e citações*:  
 
-~~~
+~~~  
 <a href="https://scholar.google.com/citations?user=XR4ot-cAAAAJ">
 <b>Google Scholar</b>
 </a>
 ~~~  
 
 
-## Por eixos de produção
-
-* Comportamento coletivo e sistemas de saúde
-    * Análise de custo-efetividade para rastreamento com métodos automatizados[^1]  
-    * Implementação de redes de atenção com busca ativa[^2]  
-
-* Comportamento verbal
-    * Propriedades do discurso em psicose[^3]  
-    * Avaliação automatizada (natural language processing)[^1]  
-        * Semântica latente[^4]  
-        * Representações via teoria dos grafos[^5]  
-
-* Psiquiatria
-    * Abordagens com sistemas dinâmicos (e.g.ritmos biológicos)[^6]  
-    * Depressão
-        * Ensaios clínicos com infusão de ketamina para depressão resistente a tratamento[^7]  
-    * Psicose
-        * Sintomas psicóticos na comunidade e população de risco[^8]
-
-* Comportamento não-verbal  
-    * Expressão de emoções através da face[^9]  
-    * Postura e gestos[^10]
-    * Avaliações via visão computacional[^11]
-    
-
-* Métodos quantitativos
-
-    * *Natural Language Processing (NLP)*. Novo método para análise de trajetórias semânticas com sistemas dinâmicos (Recurrence Quantification Analysis)(4) e para análise de representações com teoria dos grafos(5), ambos disponíveis como software de código aberto.  
-    * *Psicometria*. Novo método para análise de fatores latentes com topologia (TDA) via homologias persistentes e filtração alfa[^12]. Aplicações de teoria de resposta ao item (IRT)(12) e modelagem com equações estruturas (SEM)(8).  
-
-    * Meta-análise, incluindo inferência Bayesiana[^13]  
-    * Modelos de regressão hierárquicos/mistos com inferência Bayesiana[^14]  
-    * Análise de sobre-vida[^15]  
-    * Livro-texto sobre inferência com estatística e probabilidade para ciências[^16]  
-    * Análise de padrões fractais na bandeira do Bahia Esporte Clube[^17]  
-
-  
-* Outras áreas
-    * Previamente, desenvolvi estudos nas áreas de emergências cardiovasculares(2) e contribuí com modelagem matemática em trabalhos na [urologia](https://www.scielo.br/j/ibju/a/Y56pX8GsL3YFJjnz4CXsFgx/?lang=en&format=html), [cirurgia cardíaca](https://www.scielo.br/j/ijcs/a/stQNHVC7RDv6ShJJXGbhCTJ/?format=html&lang=en).
-
-
-## Research ouputs by axes.  
+I'm interested in the following fields:
 
 * Collective behavior and health systems  
      * Cost-effectiveness analysis for screening in healthcare with automated methods[^1]  
      * Implementation of a regional network for active search [^2]  
 
 * Verbal behavior  
-     * Speech properties in psychosis[^3]  
+     * Speech properties[^3]  
      * Automated assessment (natural language processing)[^1]  
          * Latent semantics[^4]  
          * Representations via graph theory[^5]  
@@ -101,18 +61,21 @@ Formado em medicina (UFBa), com doutorado em Psiquiatria e Psicologia Médica (U
 
 * Quantitative methods  
 
+     
+     * Analytic Combinatorics[^18]
      * *Natural Language Processing (NLP)*. New method for analysis of semantic trajectories with dynamic systems (Recurrence Quantification Analysis)(4) and for analysis of representations with graph theory(5), both available as open source software.
      * * Psychometry *. New method for analysis of latent factors with topology (TDA) via persistent homologies and alpha filtration[^12]. Applications of item response theory (IRT)(12) and structural equation modeling (SEM)(8).  
 
      * Meta-analysis, including Bayesian inference[^13]  
      * Hierarchical/mixed regression models with Bayesian inference[^14]  
      * Survival Analysis[^15]  
-     * Textbook on Statistics and Probability for Inference in Science  [^16]
-     * Analysis of fractal patterns in ECB's crest[^17]
+     * Teaching and Learning: Textbook on Statistics and Probability for Inference in Science  [^16]
+     * Fractals[^17]
+     
 
   
 * Other areas  
-     * Previously, I developed studies in the areas of cardiovascular emergencies(2) and contributed with mathematical modeling in works in [urology](https://www.scielo.br/j/ibju/a/Y56pX8GsL3YFJnz4CXsFgx/?lang=en&format=html ), [heart surgery](https://www.scielo.br/j/ijcs/a/stQNHVC7RDv6ShJJXGbhCTJ/?format=html&lang=en).  
+     * Previously, I contributed to studies in the areas of cardiovascular emergencies(2) and contributed with mathematical modeling in works in [urology](https://www.scielo.br/j/ibju/a/Y56pX8GsL3YFJnz4CXsFgx/?lang=en&format=html ), [heart surgery](https://www.scielo.br/j/ijcs/a/stQNHVC7RDv6ShJJXGbhCTJ/?format=html&lang=en).  
 
 
 
@@ -133,3 +96,4 @@ Formado em medicina (UFBa), com doutorado em Psiquiatria e Psicologia Médica (U
 [^15]: https://www.scielo.br/j/ag/a/JyTKZdVmGjhNnX5jhtLCPnq/  
 [^16]: https://leanpub.com/cienciadados  
 [^17]: https://medium.com/d-van/a-bandeira-do-bahia-esporte-clube-%C3%A9-especial-revisitando-um-fractal-esquecido-por-90-anos-884f8e677f7b
+[^18]: https://github.com/fargolo/AnalyticComb.jl

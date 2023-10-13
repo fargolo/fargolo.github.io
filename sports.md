@@ -7,8 +7,10 @@ rss_title = "Sports"
 tags = ["sobre", "bio"]
 +++
 
-# Martial arts & sea sports. 
+Throughout my life, I've been practicing different sports 
 
+# Martial arts & sea sports. 
+I'm yet to upload a video :)  
 
 ### Capoeira & Axé
 Morning strech.  

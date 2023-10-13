@@ -23,11 +23,19 @@ Aplicativo COMVC ajuda a monitorar a saúde mental dos alunos de graduação. O 
 * [Meet-up Setembro Amarelo (DataLab Serasa)](https://www.youtube.com/watch?v=VzQ2cS75gZY&list=PL0BvB19qtjrLm1-Kjk9kmrvT_CC_wMDMH)
 
 ~~~  
+<iframe width="731" height="411" src="https://www.youtube.com/embed/4jJD4F40WBA" title="NLP and Human Behavior with Julia (And a Bit of R) | Felipe Coelho Argolo | JuliaCon 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+~~~  
+
+~~~  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VzQ2cS75gZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 ~~~  
 
+~~~   
+<iframe width="830" height="380" src="https://www.youtube.com/embed/6gxGQlXTVWE?list=PLCuY1553_o6zjU9-t_laW94WTaILI11dw" title="#01.1  Inferência em Ciências com probabilidade e estatística" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+~~~  
 
-### Personal Blog  
+
+### Blog  
 Medium:    
 ~~~
 <a href="https://medium.com/@felipeargolo">@felipeargolo</a>
