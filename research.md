@@ -11,21 +11,20 @@ tags = ["research", "pesquisa"]
 
 **English**:M.D. (UFBa), Ph.D. (UNIFESP) in Psychiatry and Medical Psychology. I'm a post doctoral researcher at USP (Universidade de São Paulo).   
 
-I study human behavior, with a focus on mental health. This includes clinical studies on mental disorders in a hospital environment, as well as work involving behavior in healthy people.  
+My work covers the following topics: physiology, medicine, human behavior, psychiatry, mathematical models and probabilistic inference.  
 
 ---  
 
 **Português**: Formado em medicina (UFBa), com doutorado em Psiquiatria e Psicologia Médica (UNIFESP). Atualmento, trabalho como pesquisador pós-doutor na Universidade de São Paulo (USP). Estudamos processamento automatizado de dados para analisar comportamento humano. 
 
-Estudo o comportamento humano, com foco na saúde mental. Isso inclui estudos clínicos sobre transtornos mentais em ambiente hospitalar, assim como trabalhos envolvendo comportamento em pessoas saudáveis.
- 
+Meu trabalho abrange os seguintes temas: fisiologia, medicina, comportamento humano, psiquiatria, modelos matemáticos e inferência probabilística.   
 
 ### Outputs 
 
 
 *Peer-reviewed works and citations*:   
 
-*Lista completa de trabalhos revisados e citações*:  
+*Lista completa de artigos indexados e revisados, assim como citações*:  
 
 ~~~  
 <a href="https://scholar.google.com/citations?user=XR4ot-cAAAAJ">
