@@ -77,23 +77,4 @@
   </atom:author>
         
 </item>
-
-<item>
-  <title>
-    <![CDATA[  Music  ]]>
-  </title>
-  <link> https://fargolo.github.io/music/index.html </link>
-  <guid> https://fargolo.github.io/music/index.html </guid>
-  <description>
-    <![CDATA[  Music / Música  ]]>
-  </description>  
-    
-  <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Felipe Coelho Argolo</atom:name>
-  </atom:author>
-        
-</item>
 </channel></rss>
