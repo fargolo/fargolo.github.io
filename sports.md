@@ -1,4 +1,4 @@
-+++
+<!-- +++
 title = "Sports / Esportes"
 hascode = true
 rss = "Sports / Esportes"
@@ -6,6 +6,7 @@ rss_title = "Sports"
 
 tags = ["sobre", "bio"]
 +++
+-->
 
 Throughout my life, I've been practicing different sports 
 
