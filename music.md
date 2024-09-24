@@ -1,11 +1,16 @@
-+++
+<!---
+your comment goes here
+and here
+-- +++
 title = "Music / Música"
 hascode = true
 rss = "Music / Música"
 rss_title = "Music"
 
-tags = ["sobre", "bio"]
+
+<!--- tags = ["sobre", "bio"] -->
 +++
+-->
 
 # Música / Music
 
